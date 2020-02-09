@@ -13,8 +13,8 @@ Assignment Help - Steps:
 Above application details for dockerfile<br/>
 1- Node.js application for serving portfolio files<br/>
 How to run application:<br/>
-2- you need linex env.<br/>
-3- in your linex env, you should node.js installed<br/>
+2- you need linux env.<br/>
+3- in your linux env, you should node.js installed<br/>
 4- npm install (run this command on terminal for packages)<br/>
 5- node server.js (run this command on terminal for application up and running)<br/>
 
