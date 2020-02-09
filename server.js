@@ -3,7 +3,7 @@ var express = require('express');
 
 //configure app
 var app = express();
-var port = 5000;
+var port = process.env.PORT | 5000;
 
 //main get request
 app.get('/test',(req,res)=>res.json("server up and running"))
